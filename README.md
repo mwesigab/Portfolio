@@ -1,6 +1,6 @@
 # Website Portfolio
 
-Welcome! This is my beautiful website Portfolio. This portfolio basically talks about me and the work I have done in my software development career.
+Welcome! This is my beautiful website portfolio. This portfolio basically talks about me and the work I have done in my software development career.
 
 ## Authors
 
@@ -34,9 +34,9 @@ Go to the project directory
 
 Run the index.html file in your preferred web browser.
 
-## Screenshots
+## GIFS & Screenshots
 
-![App Screenshot](./images/portfolio.gif)
+![App GIF](./images/portfolio.gif)
 
 ## 🚀 About Me
 
