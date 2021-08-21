@@ -12,7 +12,7 @@ Welcome! This is my beautiful website portfolio. This portfolio basically talks 
 
 ## Demo
 
-This portfolio is hosted [here](https://inspiring-lalande-8c3ada.netlify.app). Feel free to check it out.
+This portfolio is hosted [here](https://inspiring-lalande-8c3ada.netlify.app). Check it out.
 
 ## Technologies Used
 
