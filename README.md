@@ -18,22 +18,6 @@ This portfolio is hosted [here](https://inspiring-lalande-8c3ada.netlify.app). C
 
 **Client:** HTML, CSS, JavaScript, Bootstrap
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/mwesigab/Portfolio.git
-```
-
-Go to the project directory
-
-```bash
-  cd Portfolio/
-```
-
-Run the index.html file in your preferred web browser.
-
 ## GIFS & Screenshots
 
 ![App GIF](./images/portfolio.gif)
