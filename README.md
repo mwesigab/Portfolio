@@ -12,27 +12,11 @@ Welcome! This is my beautiful website portfolio. This portfolio basically talks 
 
 ## Demo
 
-This portfolio is hosted [here](https://inspiring-lalande-8c3ada.netlify.app). Feel free to check it out.
+This portfolio is hosted [here](https://inspiring-lalande-8c3ada.netlify.app). Check it out.
 
 ## Technologies Used
 
 **Client:** HTML, CSS, JavaScript, Bootstrap
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/mwesigab/Portfolio.git
-```
-
-Go to the project directory
-
-```bash
-  cd Portfolio/
-```
-
-Run the index.html file in your preferred web browser.
 
 ## GIFS & Screenshots
 
